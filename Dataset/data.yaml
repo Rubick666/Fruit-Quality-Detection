@@ -1,0 +1,8 @@
+path: /content/drive/MyDrive/Dataset
+train: images/train
+val: images/val
+
+names:
+  0: Apple
+  1: Banana
+  2: Orange
