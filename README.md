@@ -26,6 +26,7 @@ The segmentation model is trained on the FruitSeg30 dataset, while the classific
 ├── FruitSeg30/ # YOLOv8 segmentation model code and training scripts
 ├── Dataset/ # Dataset preparation scripts and sample data
 ├── README.md # This documentation file
+├── YOLO+CNN_to_detect_and_classifiy_fruits.ipynb
 
 ## Installation & Usage
 1. Clone the repository:
