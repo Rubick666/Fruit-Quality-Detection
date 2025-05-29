@@ -32,7 +32,7 @@ The segmentation model is trained on the FruitSeg30 dataset, while the classific
 1. Clone the repository:
 git clone https://github.com/YourGitHubUsername/Fruit-Quality-Detection.git
 2. Install required packages:
-3. Prepare datasets as described in the `data/` folder.
+3. Prepare datasets as described in the `Dataset/` folder.
 4. Train or evaluate models using scripts in `classification/` and `FruitSeg30/`.
 5. Use provided notebooks or scripts for inference and visualization.
 
